@@ -1,0 +1,9 @@
+node_modules
+.idea/
+.vscode/
+.DS_Store
+dist
+dist-ssr
+*.local
+.env.development
+.env.production
